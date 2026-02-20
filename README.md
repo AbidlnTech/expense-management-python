@@ -25,11 +25,6 @@ C:/Users/banth/OneDrive/Documents/Expense-Management-System-main/.venv/Scripts/p
 
 The app will be available at http://localhost:8501
 
-## Data Storage
-- User data: `data/users.json`
-- Transaction data: `data/transactions.json`
-- Data persists between sessions
-
 ## Security
 - Passwords are hashed using bcrypt.
 - User emails are unique.
